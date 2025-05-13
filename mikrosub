@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Gizlilik Politikası / Privacy Policy – Mikrosub</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; }
+    h1 { color: #2c3e50; }
+    h2 { color: #34495e; margin-top: 30px; }
+    hr { margin: 40px 0; }
+    .lang { margin-bottom: 50px; }
+  </style>
+</head>
+<body>
+
+  <div class="lang" id="tr">
+    <h1>Gizlilik Politikası – Mikrosub</h1>
+
+    <p><strong>Mikrosub</strong> uygulaması, kullanıcı gizliliğini korumaya önem verir. Bu belge, uygulamanın topladığı verileri, bunların nasıl kullanıldığını ve güvenliğini açıklamaktadır.</p>
+
+    <h2>1. Toplanan Veriler</h2>
+    <ul>
+      <li>Bluetooth üzerinden Mikrosub MS1 cihazı ile iletişim verileri</li>
+      <li>MS1 cihazından alınan dalış kayıtları</li>
+      <li>İnternet üzerinden indirilen yazılım güncelleme dosyaları</li>
+    </ul>
+
+    <h2>2. Kullanım Amacı</h2>
+    <ul>
+      <li>MS1 cihazı ile bağlantı kurmak ve veri alışverişi sağlamak</li>
+      <li>Dalış kayıtlarını saklamak ve görüntülemek</li>
+      <li>Yazılım güncellemelerini cihaza iletmek</li>
+    </ul>
+
+    <h2>3. Üçüncü Taraf Hizmetler</h2>
+    <p>Uygulama, yalnızca Google Drive üzerinden yazılım dosyalarına erişim sağlar. Reklam, analiz veya pazarlama amacıyla kullanıcı verisi toplanmaz veya paylaşılmaz.</p>
+
+    <h2>4. Gelecekteki Özellikler</h2>
+    <p>Gelecekte, dalış günleriyle fotoğrafları eşleştirmek için cihaz fotoğraflara erişim isteyebilir. Bu durumda açık izin istenecek ve erişim yalnızca bu amaçla kullanılacaktır.</p>
+
+    <h2>5. Veri Güvenliği</h2>
+    <p>Tüm kullanıcı verileri cihaz içinde kalır ve güvenli bir şekilde işlenir. Üçüncü taraflara aktarılmaz.</p>
+
+    <h2>6. Kullanıcının Hakları</h2>
+    <p>Kullanıcılar verilerinin silinmesini veya görüntülenmesini talep edebilir. Talepler aşağıdaki e-posta adresinden iletilebilir.</p>
+
+    <h2>7. İletişim</h2>
+    <p><strong>E-posta:</strong> <a href="mailto:info@mikropix.com">info@mikropix.com</a></p>
+
+    <h2>8. Politika Güncellemeleri</h2>
+    <p>Bu politika zaman zaman güncellenebilir. Güncellemeler bu sayfa üzerinden duyurulacaktır.</p>
+  </div>
+
+  <hr>
+
+  <div class="lang" id="en">
+    <h1>Privacy Policy – Mikrosub</h1>
+
+    <p><strong>Mikrosub</strong> is committed to protecting user privacy. This document explains what data is collected, how it is used, and how it is secured.</p>
+
+    <h2>1. Data Collected</h2>
+    <ul>
+      <li>Communication data via Bluetooth with the Mikrosub MS1 device</li>
+      <li>Dive logs retrieved from the MS1 device</li>
+      <li>Firmware files downloaded from the internet for updates</li>
+    </ul>
+
+    <h2>2. Purpose of Use</h2>
+    <ul>
+      <li>To connect and communicate with the MS1 device via BLE</li>
+      <li>To store and display dive logs</li>
+      <li>To send firmware updates to the device</li>
+    </ul>
+
+    <h2>3. Third-Party Services</h2>
+    <p>The app accesses firmware files stored on Google Drive. No data is collected or shared for advertising, analytics, or marketing purposes.</p>
+
+    <h2>4. Future Features</h2>
+    <p>In the future, the app may request access to user photos to associate them with dive logs. This access will be clearly requested and only used for that purpose.</p>
+
+    <h2>5. Data Security</h2>
+    <p>All data remains on the device and is handled securely. It is never transferred to third parties.</p>
+
+    <h2>6. User Rights</h2>
+    <p>Users may request deletion or access to their data via the contact email below.</p>
+
+    <h2>7. Contact</h2>
+    <p><strong>Email:</strong> <a href="mailto:info@mikropix.com">info@mikropix.com</a></p>
+
+    <h2>8. Policy Updates</h2>
+    <p>This privacy policy may be updated from time to time. Updates will be posted on this page.</p>
+  </div>
+
+</body>
+</html>
