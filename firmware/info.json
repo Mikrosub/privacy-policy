@@ -1,0 +1,74 @@
+{
+  "VersionGroups": {
+    "GroupA": [
+      {
+        "softwareVersion": "1.1.4",
+        "assetsFileID": "xxxxx",
+        "assetsFileName": "assets_V1.1.4.bin",
+        "firmwareFileID" : "yyyy",
+        "firmwareFileName": "firmware_V1.1.4.bin"
+      },
+      {
+        "softwareVersion": "1.1.5",
+        "assetsFileID": "xxxxx",
+        "assetsFileName": "assets_V1.1.5.bin",
+        "firmwareFileID" : "yyyy",
+        "firmwareFileName": "firmware_V1.1.5.bin"
+      }      
+      ],
+    "GroupB": [
+      {
+        "softwareVersion": null,
+        "assetsFileID": null,
+        "assetsFileName": null,
+        "firmwareFileID" : null,
+        "firmwareFileName": null
+      }
+      ],      
+    "GroupC": [
+      {
+        "softwareVersion": null,
+        "assetsFileID": null,
+        "assetsFileName": null,
+        "firmwareFileID" : null,
+        "firmwareFileName": null
+      }
+      ],
+    "GroupD": [
+      {
+        "softwareVersion": null,
+        "assetsFileID": null,
+        "assetsFileName": null,
+        "firmwareFileID" : null,
+        "firmwareFileName": null
+      }
+      ],
+    "GroupE": [
+      {
+        "softwareVersion": null,
+        "assetsFileID": null,
+        "assetsFileName": null,
+        "firmwareFileID" : null,
+        "firmwareFileName": null
+      }
+      ],
+    "GroupF": [
+      {
+        "softwareVersion": null,
+        "assetsFileID": null,
+        "assetsFileName": null,
+        "firmwareFileID" : null,
+        "firmwareFileName": null
+      }
+      ],
+    "GroupG": [
+      {
+        "softwareVersion": null,
+        "assetsFileID": null,
+        "assetsFileName": null,
+        "firmwareFileID" : null,
+        "firmwareFileName": null
+      }
+      ]
+  }
+}
