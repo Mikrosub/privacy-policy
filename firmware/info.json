@@ -4,54 +4,54 @@
       {
         "softwareVersion": "1.1.4",
         "assetsFileLink": "https://raw.githubusercontent.com/Mikrosub/privacy-policy/main/firmware/assets/assets_V1.1.4.bin",
-        "firmwareFileLink" : "https://raw.githubusercontent.com/Mikrosub/privacy-policy/main/firmware/firmwares/firmware_V1.1.4.bin",
+        "firmwareFileLink" : "https://raw.githubusercontent.com/Mikrosub/privacy-policy/main/firmware/firmwares/firmware_V1.1.4.bin"
       },
       {
         "softwareVersion": "1.1.5",
         "assetsFileLink": "https://raw.githubusercontent.com/Mikrosub/privacy-policy/main/firmware/assets/assets_V1.1.5.bin",
-        "firmwareFileLink" : "https://raw.githubusercontent.com/Mikrosub/privacy-policy/main/firmware/firmwares/firmware_V1.1.5.bin",
+        "firmwareFileLink" : "https://raw.githubusercontent.com/Mikrosub/privacy-policy/main/firmware/firmwares/firmware_V1.1.5.bin"
       }      
       ],
     "GroupB": [
       {
         "softwareVersion": null,
         "assetsFileLink": null,
-        "firmwareFileLink" : null,
+        "firmwareFileLink" : null
       }
       ],      
     "GroupC": [
       {
         "softwareVersion": null,
         "assetsFileLink": null,
-        "firmwareFileLink" : null,
+        "firmwareFileLink" : null
       }
       ],
     "GroupD": [
       {
         "softwareVersion": null,
         "assetsFileLink": null,
-        "firmwareFileLink" : null,
+        "firmwareFileLink" : null
       }
       ],
     "GroupE": [
       {
         "softwareVersion": null,
         "assetsFileLink": null,
-        "firmwareFileLink" : null,
+        "firmwareFileLink" : null
       }
       ],
     "GroupF": [
       {
         "softwareVersion": null,
         "assetsFileLink": null,
-        "firmwareFileLink" : null,
+        "firmwareFileLink" : null
       }
       ],
     "GroupG": [
       {
         "softwareVersion": null,
         "assetsFileLink": null,
-        "firmwareFileLink" : null,
+        "firmwareFileLink" : null
       }
       ]
   }
