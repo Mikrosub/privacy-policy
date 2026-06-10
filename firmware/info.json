@@ -3,70 +3,70 @@
     "GroupA": [
       {
         "softwareVersion": "1.1.4",
-        "assetsFileID": "xxxxx",
+        "assetsFileLink": "https://raw.githubusercontent.com/Mikrosub/privacy-policy/main/firmware/asstests/assets_V1.1.4.bin",
         "assetsFileName": "assets_V1.1.4.bin",
-        "firmwareFileID" : "yyyy",
+        "firmwareFileLink" : "https://raw.githubusercontent.com/Mikrosub/privacy-policy/main/firmware/firmwares/firmware_V1.1.4.bin",
         "firmwareFileName": "firmware_V1.1.4.bin"
       },
       {
         "softwareVersion": "1.1.5",
-        "assetsFileID": "xxxxx",
+        "assetsFileLink": "https://raw.githubusercontent.com/Mikrosub/privacy-policy/main/firmware/asstests/assets_V1.1.5.bin",
         "assetsFileName": "assets_V1.1.5.bin",
-        "firmwareFileID" : "yyyy",
+        "firmwareFileLink" : "https://raw.githubusercontent.com/Mikrosub/privacy-policy/main/firmware/firmwares/firmware_V1.1.5.bin",
         "firmwareFileName": "firmware_V1.1.5.bin"
       }      
       ],
     "GroupB": [
       {
         "softwareVersion": null,
-        "assetsFileID": null,
+        "assetsFileLink": null,
         "assetsFileName": null,
-        "firmwareFileID" : null,
+        "firmwareFileLink" : null,
         "firmwareFileName": null
       }
       ],      
     "GroupC": [
       {
         "softwareVersion": null,
-        "assetsFileID": null,
+        "assetsFileLink": null,
         "assetsFileName": null,
-        "firmwareFileID" : null,
+        "firmwareFileLink" : null,
         "firmwareFileName": null
       }
       ],
     "GroupD": [
       {
         "softwareVersion": null,
-        "assetsFileID": null,
+        "assetsFileLink": null,
         "assetsFileName": null,
-        "firmwareFileID" : null,
+        "firmwareFileLink" : null,
         "firmwareFileName": null
       }
       ],
     "GroupE": [
       {
         "softwareVersion": null,
-        "assetsFileID": null,
+        "assetsFileLink": null,
         "assetsFileName": null,
-        "firmwareFileID" : null,
+        "firmwareFileLink" : null,
         "firmwareFileName": null
       }
       ],
     "GroupF": [
       {
         "softwareVersion": null,
-        "assetsFileID": null,
+        "assetsFileLink": null,
         "assetsFileName": null,
-        "firmwareFileID" : null,
+        "firmwareFileLink" : null,
         "firmwareFileName": null
       }
       ],
     "GroupG": [
       {
         "softwareVersion": null,
-        "assetsFileID": null,
+        "assetsFileLink": null,
         "assetsFileName": null,
-        "firmwareFileID" : null,
+        "firmwareFileLink" : null,
         "firmwareFileName": null
       }
       ]
