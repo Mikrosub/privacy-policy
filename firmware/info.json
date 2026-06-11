@@ -10,7 +10,12 @@
         "softwareVersion": "1.1.5",
         "assetsFileLink": "https://raw.githubusercontent.com/Mikrosub/privacy-policy/main/firmware/assets/assets_V1.1.5.bin",
         "firmwareFileLink" : "https://raw.githubusercontent.com/Mikrosub/privacy-policy/main/firmware/firmwares/firmware_V1.1.5.bin"
-      }      
+      },
+      {
+        "softwareVersion": "2.0.0",
+        "assetsFileLink": "https://raw.githubusercontent.com/Mikrosub/privacy-policy/main/firmware/assets/assets_V2.0.0.bin",
+        "firmwareFileLink" : "https://raw.githubusercontent.com/Mikrosub/privacy-policy/main/firmware/firmwares/firmware_V2.0.0.bin"
+      } 
       ],
     "GroupB": [
       {
